@@ -42,12 +42,7 @@ Atualmente trabalho com **análise documental**, lidando com dados, organizaçã
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caetano3009&show_icons=true&bg_color=0a0f1f&title_color=beef00&text_color=f5f7ff&icon_color=ff0028&border_color=1400c6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetano3009&layout=compact&bg_color=0a0f1f&title_color=beef00&text_color=f5f7ff&border_color=1400c6" />
-</p>
 
 ---
 
@@ -101,10 +96,6 @@ Plataforma para encontrar lugares, experiências e roles.
 </p>
 
 ---
-
-## 🐍 Snake Animation
-
-![Snake animation](https://github.com/caetano3009/caetano3009/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
