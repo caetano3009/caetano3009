@@ -1,40 +1,47 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1400c6,50:beef00,100:ff0028&height=200&section=header&text=Caetano%20Silva&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1400c6,50:beef00,100:ff0028&height=200&section=header&text=Caetano%20Silva&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+formação;Focado+em+Web+e+Banco+de+Dados;Criando+projetos+reais;Bem-vindo+ao+meu+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;Seja+bem-vindo+ao+meu+GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-1400c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Dados-beef00?style=for-the-badge&labelColor=0a0f1f" />
+  <img src="https://img.shields.io/badge/Projetos-Reais-ff0028?style=for-the-badge" />
 </p>
 
 ---
 
-```php
-echo "Transformando ideias em projetos reais 🚀";
-```
+<p align="center">
+  <code>echo "Transformando ideias em projetos reais 🚀";</code>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)**  
-📚 3º semestre — conclusão prevista para **2027**  
-🚀 Focado em **Desenvolvimento Web e Banco de Dados**  
-🧠 Perfil analítico + resolução de problemas  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID**, atualmente no **3º semestre**, com previsão de conclusão em **2027**.
 
-Atualmente trabalho com **análise documental**, lidando com dados, organização e sistemas no dia a dia.
+Tenho foco em **Desenvolvimento Web**, **Banco de Dados** e criação de projetos que unem organização, usabilidade e solução de problemas.  
+Além dos estudos, atuo com **análise documental**, trabalhando diariamente com dados, sistemas e processos.
 
 ---
 
-## 🌐 Meu Portfólio
+## 🌐 Portfólio
 
-👉 **Acesse aqui:**  
-🔗 https://caetano3009.github.io/portifolio/
+<p align="center">
+  <a href="https://caetano3009.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-0a0f1f?style=for-the-badge&logo=google-chrome&logoColor=beef00" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,vscode,pycharm" />
@@ -42,40 +49,34 @@ Atualmente trabalho com **análise documental**, lidando com dados, organizaçã
 
 ---
 
-
-
----
-
-## 🔥 Projetos em destaque
+## 📌 Projetos em destaque
 
 ### 💼 Sistema de Vagas de Estágio
-Sistema web para divulgação de oportunidades com foco em organização e usabilidade.
+Sistema web desenvolvido para divulgação de oportunidades, com foco em organização, praticidade e usabilidade.
 
-🛠️ `HTML` `CSS` `PHP` `MySQL`
+**Tecnologias:** `HTML` `CSS` `PHP` `MySQL`
 
 ---
 
 ### 🦷 Sistema de Clínica Odontológica
-Sistema de agendamento e gerenciamento de clientes.
+Sistema voltado para agendamento e gerenciamento, pensado para facilitar o controle de atendimentos e cadastros.
 
-🛠️ `PHP` `Bootstrap` `MySQL`
+**Tecnologias:** `PHP` `Bootstrap` `MySQL`
 
 ---
 
 ### 🌍 RolêFinder
-Plataforma para encontrar lugares, experiências e roles.
+Plataforma criada para encontrar lugares, experiências e roles de forma simples e intuitiva.
 
-🛠️ `HTML` `CSS` `JavaScript`
+**Tecnologias:** `HTML` `CSS` `JavaScript`
 
 ---
 
 ## 🧠 Áreas de conhecimento
 
-- 🌐 Desenvolvimento Web  
-- 🗄️ Banco de Dados  
-- 📊 Organização e análise de dados  
-- 🎨 Interfaces modernas  
-- ⚙️ Lógica de programação  
+<p align="center">
+  🌐 Desenvolvimento Web • 🗄️ Banco de Dados • 📊 Análise de Dados • 🎨 Interfaces Modernas • ⚙️ Lógica de Programação
+</p>
 
 ---
 
@@ -85,11 +86,9 @@ Plataforma para encontrar lugares, experiências e roles.
   <a href="https://github.com/caetano3009">
     <img src="https://img.shields.io/badge/GitHub-0a0f1f?style=for-the-badge&logo=github&logoColor=beef00" />
   </a>
-
   <a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0">
     <img src="https://img.shields.io/badge/LinkedIn-1400c6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:caetanoribeiro461@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0028?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -97,8 +96,6 @@ Plataforma para encontrar lugares, experiências e roles.
 
 ---
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0028,50:beef00,100:1400c6&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0028,50:beef00,100:1400c6&height=140&section=footer" />
 </p>
