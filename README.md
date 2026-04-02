@@ -48,8 +48,16 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 </p>
 
 ---
-
 ## 📌 Projetos em destaque
+
+### 🌐 Portfólio Pessoal
+Site desenvolvido para apresentar meus projetos, habilidades e trajetória na área de tecnologia, com foco em design moderno e responsivo.
+
+🔗 Acesse: https://caetano3009.github.io/portifolio/  
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+---
 
 ### 💼 Sistema de Vagas de Estágio
 Sistema web desenvolvido para divulgação de oportunidades, com foco em organização, praticidade e usabilidade.
@@ -69,8 +77,6 @@ Sistema voltado para agendamento e gerenciamento, pensado para facilitar o contr
 Plataforma criada para encontrar lugares, experiências e roles de forma simples e intuitiva.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
-
----
 
 ## 🧠 Áreas de conhecimento
 
