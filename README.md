@@ -34,7 +34,7 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,vscode," />
 </p>
 
 ---
