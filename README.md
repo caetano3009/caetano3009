@@ -31,16 +31,6 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 
 ---
 
-## 🌐 Portfólio
-
-<p align="center">
-  <a href="https://caetano3009.github.io/portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-0a0f1f?style=for-the-badge&logo=google-chrome&logoColor=beef00" />
-  </a>
-</p>
-
----
-
 ## 🚀 Tecnologias
 
 <p align="center">
@@ -49,56 +39,11 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 
 ---
 
-## 📊 Estatísticas de habilidades
+## 📊 Tecnologias & Habilidades
 
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-
-### 🌐 Tecnologias
-
-HTML  
-🟦🟦🟦🟦🟦🟦🟦🟦🟩 90%
-
-CSS  
-🟦🟦🟦🟦🟦🟦🟦🟩⬜ 80%
-
-PHP  
-🟦🟦🟦🟦🟦🟦🟩⬜⬜ 70%
-
-JavaScript  
-🟦🟦🟦🟦🟦🟦🟩⬜⬜ 70%
-
-MySQL  
-🟦🟦🟦🟦🟦🟦🟦🟩⬜ 80%
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🛠️ Ferramentas
-
-VS Code  
-PyCharm  
-XAMPP  
-MySQL Workbench  
-Power BI  
-Pacote Office  
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🧠 Áreas de interesse
-
-Desenvolvimento Web  
-Interfaces modernas  
-Banco de Dados  
-Análise de Dados  
-Automação  
-Soluções com IA  
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/grafico-readme-caetano-v3.png" alt="Gráfico de tecnologias e habilidades de Caetano Silva" width="900" />
+</p>
 
 ---
 
