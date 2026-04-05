@@ -48,6 +48,60 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 </p>
 
 ---
+
+## 📊 Estatísticas de habilidades
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+
+### 🌐 Tecnologias
+
+HTML  
+🟦🟦🟦🟦🟦🟦🟦🟦🟩 90%
+
+CSS  
+🟦🟦🟦🟦🟦🟦🟦🟩⬜ 80%
+
+PHP  
+🟦🟦🟦🟦🟦🟦🟩⬜⬜ 70%
+
+JavaScript  
+🟦🟦🟦🟦🟦🟦🟩⬜⬜ 70%
+
+MySQL  
+🟦🟦🟦🟦🟦🟦🟦🟩⬜ 80%
+
+    </td>
+    <td width="33%" valign="top">
+
+### 🛠️ Ferramentas
+
+VS Code  
+PyCharm  
+XAMPP  
+MySQL Workbench  
+Power BI  
+Pacote Office  
+
+    </td>
+    <td width="33%" valign="top">
+
+### 🧠 Áreas de interesse
+
+Desenvolvimento Web  
+Interfaces modernas  
+Banco de Dados  
+Análise de Dados  
+Automação  
+Soluções com IA  
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📌 Projetos em destaque
 
 ### 🌐 Portfólio Pessoal
@@ -77,6 +131,8 @@ Sistema voltado para agendamento e gerenciamento, pensado para facilitar o contr
 Plataforma criada para encontrar lugares, experiências e roles de forma simples e intuitiva.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
+
+---
 
 ## 🧠 Áreas de conhecimento
 
