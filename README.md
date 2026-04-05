@@ -42,7 +42,7 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 ## 📊 Tecnologias & Habilidades
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPO/main/assets/grafico-readme-caetano-v3.png" width="900">
+  <img src="grafico-readme-caetano-v3.png" width="900">
 </p>
 
 ---
