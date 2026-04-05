@@ -89,10 +89,6 @@ Plataforma criada para encontrar lugares, experiências e roles de forma simples
 
 ## 📬 Contato
 
-<p align="center">
-  <a href="https://github.com/caetano3009">
-    <img src="https://img.shields.io/badge/GitHub-0a0f1f?style=for-the-badge&logo=github&logoColor=beef00" />
-  </a>
   <a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0">
     <img src="https://img.shields.io/badge/LinkedIn-1400c6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
