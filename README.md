@@ -65,10 +65,26 @@ Sistema web desenvolvido para divulgação de oportunidades, com foco em organiz
 
 ---
 
-### 🦷 Sistema de Clínica Odontológica
+### 🦷 Sistema de Clínica Odontológica (Versão Inicial)
 Sistema voltado para agendamento e gerenciamento, pensado para facilitar o controle de atendimentos e cadastros.
 
 **Tecnologias:** `PHP` `Bootstrap` `MySQL`
+
+---
+
+### 🏆 SisGESC - Sistema de Gestão de Clínica
+
+![Projeto Principal](https://img.shields.io/badge/Projeto-Principal-beef00?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-1400c6?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-ff0028?style=for-the-badge)
+
+Sistema completo de gestão clínica com cadastro de pacientes, profissionais e consultas, desenvolvido com foco em organização e aplicação real de banco de dados.
+
+🔹 Funcionalidades:
+- Cadastro de pacientes
+- Cadastro de profissionais
+- Agendamento de consultas
+- Gerenciamento de dados clínicos  
 
 ---
 
