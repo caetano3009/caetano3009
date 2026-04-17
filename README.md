@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋</h1>
+ <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1400c6,50:beef00,100:ff0028&height=200&section=header&text=Caetano%20Silva&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
@@ -52,7 +52,7 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 ### 🌐 Portfólio Pessoal
 Site desenvolvido para apresentar meus projetos, habilidades e trajetória na área de tecnologia, com foco em design moderno e responsivo.
 
-🔗 Acesse: https://caetano3009.github.io/portifolio/  
+🔗 Acesse: https://caetano3009.github.io/portifolio/ 
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
