@@ -52,7 +52,7 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 ### 🌐 Portfólio Pessoal
 Site desenvolvido para apresentar meus projetos, habilidades e trajetória na área de tecnologia, com foco em design moderno e responsivo.
 
-🔗 Acesse: https://caetano3009.github.io/portifolio/ 
+🔗 Acesse: https://caetano3009.github.io/portifolio/
 
 **Tecnologias:** ![HTML](https://img.shields.io/badge/HTML-1400c6?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-1400c6?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/Javascript-1400c6?style=for-the-badge)
 
