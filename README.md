@@ -111,8 +111,6 @@ Repositório com implementações em linguagem C focadas em lógica de programa�
 - Vetores e matrizes
 - Funções
 
-🔗 Acesse o repositório: https://github.com/caetano3009/c-fundamentos-algoritmos
-
 ---
 
 ## 🧠 Áreas de conhecimento
