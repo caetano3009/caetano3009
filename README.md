@@ -95,6 +95,26 @@ Plataforma criada para encontrar lugares, experiências e roles de forma simples
 
 ---
 
+---
+
+### 🧠 Fundamentos em C (c-fundamentos-algoritmos)
+
+![C](https://img.shields.io/badge/C-1400c6?style=for-the-badge)
+![Lógica](https://img.shields.io/badge/Lógica-beef00?style=for-the-badge)
+![Algoritmos](https://img.shields.io/badge/Algoritmos-ff0028?style=for-the-badge)
+
+Repositório com implementações em linguagem C focadas em lógica de programação, estruturas de controle e construção de algoritmos.
+
+🔹 Conteúdos abordados:
+- Estruturas condicionais (`if/else`, `switch`)
+- Estruturas de repetição (`for`, `while`)
+- Vetores e matrizes
+- Funções
+
+🔗 Acesse o repositório: https://github.com/caetano3009/c-fundamentos-algoritmos
+
+---
+
 ## 🧠 Áreas de conhecimento
 
 <p align="center">
