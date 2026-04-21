@@ -55,6 +55,9 @@ Site desenvolvido para apresentar meus projetos, habilidades e trajetória na á
 🔗 Acesse: https://caetano3009.github.io/portifolio/ 
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
+![HTML](https://img.shields.io/badge/HTML-1400c6?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1400c6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Javascript-1400c6?style=for-the-badge)
 
 ---
 
@@ -62,6 +65,10 @@ Site desenvolvido para apresentar meus projetos, habilidades e trajetória na á
 Sistema web desenvolvido para divulgação de oportunidades, com foco em organização, praticidade e usabilidade.
 
 **Tecnologias:** `HTML` `CSS` `PHP` `MySQL`
+![HTML](https://img.shields.io/badge/HTML-1400c6?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1400c6?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-1400c6?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-ff0028?style=for-the-badge)
 
 ---
 
@@ -69,6 +76,9 @@ Sistema web desenvolvido para divulgação de oportunidades, com foco em organiz
 Sistema voltado para agendamento e gerenciamento, pensado para facilitar o controle de atendimentos e cadastros.
 
 **Tecnologias:** `PHP` `Bootstrap` `MySQL`
+![PHP](https://img.shields.io/badge/PHP-1400c6?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/BootatrAP-ff0028?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-ff0028?style=for-the-badge)
 
 ---
 
@@ -93,7 +103,9 @@ Plataforma criada para encontrar lugares, experiências e roles de forma simples
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
----
+![HTML](https://img.shields.io/badge/HTML-1400c6?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1400c6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-1400c6?style=for-the-badge)
 
 ---
 
