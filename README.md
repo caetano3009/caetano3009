@@ -41,9 +41,11 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 
 ## 📊 Tecnologias & Habilidades
 
-<p align="center">
-  <img src="grafico-readme-caetano-v3.png" width="900">
-</p>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caetano3009&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 
