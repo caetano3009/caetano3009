@@ -130,7 +130,7 @@ Repositório com implementações em linguagem C focadas em lógica de programa�
 
 ---
 
-##🐍 Gráfico de contribuições
+🐍 Gráfico de contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph-dark.svg">
