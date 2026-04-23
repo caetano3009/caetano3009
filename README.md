@@ -115,9 +115,9 @@ Repositório com implementações em linguagem C focadas em lógica de programa�
 
 ## 📬 Contato
 
-  <a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0">
-    <img src="https://img.shields.io/badge/LinkedIn-1400c6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-1400c6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:caetanoribeiro461@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0028?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
