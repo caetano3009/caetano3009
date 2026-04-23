@@ -43,11 +43,10 @@
 ---
 
 ## 📊 Estatísticas
-
-<div align="center">
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=caetano3009&show_icons=true&theme=dracula" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetano3009&layout=compact&theme=dracula" />
-</div>
+</p>
 
 ---
 
