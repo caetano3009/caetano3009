@@ -33,9 +33,11 @@ Além dos estudos, atuo com **análise documental**, trabalhando diariamente com
 
 ## 🚀 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,vscode," />
-</p>
+**<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caetano3009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="600" alt="languages graph"  />
+</div>
+
+###**
 
 ---
 
