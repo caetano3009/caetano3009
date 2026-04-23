@@ -5,7 +5,6 @@
 
 </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;Seja+bem-vindo+ao+meu+GitHub" /> 
 </p>
----
 
 <p align="center">
   <a href="https://caetano3009.github.io/portifolio/">
