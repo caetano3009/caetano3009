@@ -130,6 +130,16 @@ Repositório com implementações em linguagem C focadas em lógica de programa�
 
 ---
 
+###🐍 Gráfico de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0028,50:beef00,100:1400c6&height=140&section=footer" />
 </p>
