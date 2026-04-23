@@ -3,7 +3,7 @@
   align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1400c6,50:beef00,100:ff0028&height=200&section=header&text=Caetano%20Silva&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" 
 /> 
 
-</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;Seja+bem-vindo+ao+meu+GitHub" /> 
+</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais" /> 
 </p>
 
 <p align="center">
