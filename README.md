@@ -17,19 +17,17 @@
   <a href="mailto:caetanoribeiro461@gmail.com">
     <img src="https://img.shields.io/badge/Email-beef00?style=for-the-badge&logo=gmail&logoColor=white" />
 
-    <p align="center">
+<p align="center">
   <a href="SEU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=0d1117&color=0d1117"/>
+    <img src="https://img.shields.io/badge/PORTFÓLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
 
   <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0d1117"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
 
   <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=0d1117"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
 </p>
 
