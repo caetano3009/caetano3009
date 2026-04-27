@@ -41,9 +41,7 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
- <img src="./né/paisagem.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+  <img src="./né/paisagem.gif" width="260" height="500" align="right" style="margin-left: 20px;" />
 
 
 ## 📌 Projetos em destaque
