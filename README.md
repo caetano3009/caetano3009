@@ -118,15 +118,11 @@ Repositório focado em lógica e algoritmos.
 </picture>
 ## 🐾 Contribuições
 
-## 🐾 Meu ritmo de commits
+## 🐾 Snake de commits (modo gato)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark"/>
-</p>
+![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  🐱 Caçando commits como se fossem lasers
-</p>
+🐱 A cobrinha virou um gato faminto atrás de commits
 ---
 
 <p align="center">
