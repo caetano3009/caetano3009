@@ -43,11 +43,8 @@
 ---
 
 ## 📊 Estatísticas
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetano3009&layout=compact&theme=dracula" />
-</p>
+ <img src="./né/paisagem.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
 
----
 
 ## 📌 Projetos em destaque
 
