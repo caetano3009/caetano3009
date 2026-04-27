@@ -114,9 +114,9 @@ Repositório focado em lógica e algoritmos.
 ## 🐾 Cat Contributions (Hacker Pixel Mode)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/cat-contribution-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/cat-contribution.svg">
-  <img alt="cat contribution graph" src="https://raw.githubusercontent.com/caetano3009/caetano3009/output/cat-contribution.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pac-man-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pac-man-contribution.svg">
+  <img alt="cat contribution graph" src="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pac-man-contribution.svg">
 </picture>
 
 <p align="center">
