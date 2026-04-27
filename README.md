@@ -41,12 +41,13 @@
 ---
 
 ## 🤓Tecnologia
-  <img src="./né/paisagem.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+  <img src="./né/pinguim.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+
 
 
 <div align="center">
-
-🎨 Tecnologia
+<pre>
+🤓 Tecnologia
 
 HTML        ████████████████████ 95% 🔥
 CSS         ██████████████████░░ 90% 🎨
@@ -55,10 +56,8 @@ React       ███████████████░░░░░ 75% ⚛
 UI/UX       ████████████████░░░░ 80% 🧠
 
 
-
+</pre>
 </div>
-
-
 
 ## 📌 Projetos em destaque
 
