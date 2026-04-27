@@ -55,7 +55,6 @@
 ---
 
 ## 🤓linguagens Principais 
-  <img src="./né/pinguim.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
 
 
 
