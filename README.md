@@ -90,28 +90,52 @@ Sistema completo para gestão clínica.
 ✔ Agendamento de consultas  
 ✔ Gerenciamento de dados  
 
-💻 Tecnologias: PHP • MySQL
+💻 Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+</p>
 
 ---
 
 ### 💼 Sistema de Vagas de Estágio
 Plataforma para divulgação de oportunidades.
 
-💻 Tecnologias: HTML • CSS • PHP • MySQL
+💻 Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+</p>
 
 ---
 
 ### 🦷 Sistema de Clínica Odontológica
 Sistema inicial para controle de atendimentos.
 
-💻 Tecnologias: PHP • Bootstrap • MySQL
+💻 Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+</p>
 
 ---
 
 ### 🌍 RolêFinder
 Plataforma para encontrar lugares e experiências.
 
-💻 Tecnologias: HTML • CSS • JavaScript
+💻 Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
+</p>
 
 ---
 
