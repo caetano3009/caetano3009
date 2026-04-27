@@ -8,27 +8,26 @@
 </p>
 
 <p align="center">
-  <a href="https://caetano3009.github.io/portifolio/">
-    <img src="https://img.shields.io/badge/🌐 Acessar Portfólio-ff0028?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0">
-    <img src="https://img.shields.io/badge/LinkedIn-1400c6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:caetanoribeiro461@gmail.com">
-    <img src="https://img.shields.io/badge/Email-beef00?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<p align="center">
-  <a href="SEU_PORTFOLIO">
+  <a href="https://caetano3009.github.io/portifolio">
     <img src="https://img.shields.io/badge/PORTFÓLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
 
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
+  <a href="https://www.linkedin.com/in/caetano-silva-euzebio-6271591a0">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0d1117"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:caetanoribeiro461@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
+
+  <a href="https://www.instagram.com/caetano_silva0/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117&color=0d1117"/>
+  </a>
+
+  <a href="https://wa.me/+55 11 94388-9469">
+    <img src="https://img.shields.io/badge/WHATSAPP-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117&color=0d1117"/>
+  </a>
+
 </p>
 
 ---
