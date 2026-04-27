@@ -45,7 +45,7 @@
 
 
 <div align="center">
-<pre>
+
 🎨 Tecnologia
 
 HTML        ████████████████████ 95% 🔥
@@ -55,9 +55,10 @@ React       ███████████████░░░░░ 75% ⚛
 UI/UX       ████████████████░░░░ 80% 🧠
 
 
-</pre>
+
 </div>
----
+
+
 
 ## 📌 Projetos em destaque
 
