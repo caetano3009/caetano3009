@@ -60,7 +60,7 @@
 
 <center>
   <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
-  HTML ████████████████████      80%  
+  HTML ████████████████░░░░ 80%  
 
   <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
   CSS ████████████████░░ 70%  
