@@ -1,4 +1,3 @@
-<h1 align="center">Hello, World! 👋</h1> 
 <img src="./né/totoro.gif" width="100%" height="365" style="object-fit: cover;"/>
 
 
