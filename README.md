@@ -152,9 +152,12 @@ Repositório focado em lógica e algoritmos.
 ## 🧠 Áreas de conhecimento
 
 <p align="center">
-  🌐 Web • 🗄️ Banco de Dados • 📊 Dados • 🎨 UI/UX • ⚙️ Lógica
+  <img src="https://img.shields.io/badge/WEB-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/DADOS-0d1117?style=for-the-badge&logo=databricks&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/LÓGICA-0d1117?style=for-the-badge&logo=code&logoColor=00ff88&color=0d1117"/>
 </p>
-
 ---
 
 ## 🐍 Contribuições
