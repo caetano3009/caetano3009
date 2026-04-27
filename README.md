@@ -1,5 +1,5 @@
 <center>
-  <img src="./né/navinha.gif" width="100%" height="365" style="object-fit: cover;"/>
+  <img src="./né/navinha.gif" width="100%" height="370" style="object-fit: cover;"/>
 </center>
 
 
