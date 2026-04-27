@@ -77,8 +77,6 @@ React ███████████████░░░░░ 75%
 UI/UX ████████████████░░░░ 80%  
 
 </div>
-## 📌 Projetos em destaque
-
 ### 🌐 Portfólio Pessoal
 Site moderno e responsivo para apresentação profissional.
 
