@@ -44,15 +44,19 @@
   <img src="./né/paisagem.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
 
 
-   
-  <center>
-HTML        ████████████████████  ▰▰▰▰▰▰▰▰▰▰
-CSS         ██████████████████░░  ▰▰▰▰▰▰▰▰▰▱
-JavaScript  █████████████████░░░  ▰▰▰▰▰▰▰▰▱▱
-React       ███████████████░░░░░  ▰▰▰▰▰▰▱▱▱▱
-UI/UX       ████████████████░░░░  ▰▰▰▰▰▰▰▱▱▱
- 
-  </center>
+<div align="center">
+<pre>
+🎨 Tecnologia
+
+HTML        ████████████████████ 95% 🔥
+CSS         ██████████████████░░ 90% 🎨
+JavaScript  █████████████████░░░ 85% ⚡
+React       ███████████████░░░░░ 75% ⚛️
+UI/UX       ████████████████░░░░ 80% 🧠
+
+
+</pre>
+</div>
 ---
 
 ## 📌 Projetos em destaque
