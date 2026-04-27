@@ -61,15 +61,14 @@
 
 <div align="center">
 
-### 🤓 Tecnologias
 <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
-HTML ████████████████████ 95%  
+HTML ████████████████████ 80%  
 
 <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
-CSS ██████████████████░░ 90%  
+CSS ████████████████░░ 70%  
 
 <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
-JavaScript █████████████████░░░ 85%  
+JavaScript ██████████      ░░░ 50%  
 
 <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/>
 React ███████████████░░░░░ 75%  
@@ -77,7 +76,6 @@ React ███████████████░░░░░ 75%
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
 UI/UX ████████████████░░░░ 80%  
 
-</div>
 </div>
 ## 📌 Projetos em destaque
 
