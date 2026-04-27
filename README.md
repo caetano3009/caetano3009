@@ -118,12 +118,14 @@ Repositório focado em lógica e algoritmos.
 </picture>
 ## 🐾 Contribuições
 
+## 🐾 Meu ritmo de commits
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark"/>
 </p>
 
 <p align="center">
-  Enquanto você vê isso, eu tô commitando código 🐱💻
+  🐱 Caçando commits como se fossem lasers
 </p>
 ---
 
