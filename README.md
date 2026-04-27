@@ -77,14 +77,15 @@ React ███████████████░░░░░ 75%
 UI/UX ████████████████░░░░ 80%  
 
 </div>
-### 🌐 Portfólio Pessoal
+
+## 🌐 Portfólio Pessoal
 Site moderno e responsivo para apresentação profissional.
 
 🔗 https://caetano3009.github.io/portifolio/
 
 ---
 
-### 🏆 SisGESC - Sistema de Gestão de Clínica
+## 🏆 SisGESC - Sistema de Gestão de Clínica
 Sistema completo para gestão clínica.
 
 ✔ Cadastro de pacientes  
@@ -101,7 +102,7 @@ Sistema completo para gestão clínica.
 
 ---
 
-### 💼 Sistema de Vagas de Estágio
+## 💼 Sistema de Vagas de Estágio
 Plataforma para divulgação de oportunidades.
 
 💻 Tecnologias:
@@ -115,7 +116,7 @@ Plataforma para divulgação de oportunidades.
 
 ---
 
-### 🦷 Sistema de Clínica Odontológica
+## 🦷 Sistema de Clínica Odontológica
 Sistema inicial para controle de atendimentos.
 
 💻 Tecnologias:
@@ -128,7 +129,7 @@ Sistema inicial para controle de atendimentos.
 
 ---
 
-### 🌍 RolêFinder
+## 🌍 RolêFinder
 Plataforma para encontrar lugares e experiências.
 
 💻 Tecnologias:
@@ -141,7 +142,7 @@ Plataforma para encontrar lugares e experiências.
 
 ---
 
-### 🧠 Fundamentos em C
+## 🧠 Fundamentos em C
 Repositório focado em lógica e algoritmos.
 
 ✔ Estruturas condicionais  
