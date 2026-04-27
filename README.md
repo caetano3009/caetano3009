@@ -1,4 +1,7 @@
-<img src="./né/navinha.gif" width="80%" height="360" style="object-fit: cover;"/>
+<center>
+  <img src="./né/navinha.gif" width="80%" height="365" style="object-fit: cover;"/>
+</center>
+
 
 
 </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;" /> 
