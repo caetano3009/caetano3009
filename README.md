@@ -32,12 +32,12 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)**  
 📅 3º semestre — Conclusão prevista para **2027**
 
-💻 Foco em:
+ Foco em:
 - Desenvolvimento Web
 - Banco de Dados
 - Sistemas reais e funcionais
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,bootstrap,github" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🤓linguagens Principais 
+## linguagens Principais 
 
 
 
@@ -77,7 +77,7 @@
 </center>
 
 
-## 🌐 Portfólio Pessoal
+##  Portfólio Pessoal
 Site moderno e responsivo para apresentação profissional.
 
 🔗 https://caetano3009.github.io/portifolio/
@@ -92,7 +92,7 @@ Sistema completo para gestão clínica.
 ✔ Agendamento de consultas  
 ✔ Gerenciamento de dados  
 
-💻 Tecnologias:
+ Tecnologias:
 
 <p>
   <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
@@ -101,10 +101,10 @@ Sistema completo para gestão clínica.
 
 ---
 
-## 💼 Sistema de Vagas de Estágio
+##  Sistema de Vagas de Estágio
 Plataforma para divulgação de oportunidades.
 
-💻 Tecnologias:
+ Tecnologias:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
@@ -115,10 +115,10 @@ Plataforma para divulgação de oportunidades.
 
 ---
 
-## 🦷 Sistema de Clínica Odontológica
+##  Sistema de Clínica Odontológica
 Sistema inicial para controle de atendimentos.
 
-💻 Tecnologias:
+ Tecnologias:
 
 <p>
   <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
@@ -128,10 +128,10 @@ Sistema inicial para controle de atendimentos.
 
 ---
 
-## 🌍 RolêFinder
+##  RolêFinder
 Plataforma para encontrar lugares e experiências.
 
-💻 Tecnologias:
+ Tecnologias:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
@@ -141,7 +141,7 @@ Plataforma para encontrar lugares e experiências.
 
 ---
 
-## 🧠 Fundamentos em C
+##  Fundamentos em C
 Repositório focado em lógica e algoritmos.
 
 ✔ Estruturas condicionais  
@@ -151,7 +151,7 @@ Repositório focado em lógica e algoritmos.
 
 ---
 
-## 🧠 Áreas de conhecimento
+##  Áreas de conhecimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/WEB-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88&color=0d1117"/>
@@ -162,7 +162,7 @@ Repositório focado em lógica e algoritmos.
 </p>
 ---
 
-## 🐍 Contribuições
+##  Contribuições
 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph-dark.svg"> 
