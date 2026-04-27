@@ -116,7 +116,15 @@ Repositório focado em lógica e algoritmos.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph.svg">
 </picture>
+## 🐾 Contribuições
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  Enquanto você vê isso, eu tô commitando código 🐱💻
+</p>
 ---
 
 <p align="center">
