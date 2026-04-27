@@ -118,11 +118,7 @@ Repositório focado em lógica e algoritmos.
 </picture>
 ## 🐾 Contribuições
 
-## 🐾 Snake de commits (modo gato)
 
-![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-🐱 A cobrinha virou um gato faminto atrás de commits
 ---
 
 <p align="center">
