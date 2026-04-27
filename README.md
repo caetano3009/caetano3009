@@ -1,4 +1,4 @@
-<img src="./né/paisagem.gif" width="67%" height="380" style="object-fit: cover;"/>
+<img src="./né/cowboy.gif" width="100%" height="360" style="object-fit: cover;"/>
 
 
 </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;" /> 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🤓Tecnologia
+## 🤓linguagens
   <img src="./né/pinguim.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
 
 
