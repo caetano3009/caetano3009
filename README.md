@@ -43,16 +43,16 @@
 ## 🤓Tecnologia
   <img src="./né/paisagem.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
 
-  <p align="justify">
+
    
-  <div align="center"
+  <center>
 HTML        ████████████████████  ▰▰▰▰▰▰▰▰▰▰
 CSS         ██████████████████░░  ▰▰▰▰▰▰▰▰▰▱
 JavaScript  █████████████████░░░  ▰▰▰▰▰▰▰▰▱▱
 React       ███████████████░░░░░  ▰▰▰▰▰▰▱▱▱▱
 UI/UX       ████████████████░░░░  ▰▰▰▰▰▰▰▱▱▱
  
->
+  </center>
 ---
 
 ## 📌 Projetos em destaque
