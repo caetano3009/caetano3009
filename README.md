@@ -47,12 +47,10 @@
 ---
 ## Tecnologias
 
-<div align="left">
-  <!-- Avatar -->
-     <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-     </div>
-  <div align="right">
-<!-- Tecnologias -->
+<div align="center">
+    <!-- Avatar -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+    <!-- Tecnologias -->
     <table>
       <tr>
         <td align="center">
@@ -73,6 +71,7 @@
         </td>
       </tr>
     </table>
+
   </div>
 </div>
 
