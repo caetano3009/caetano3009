@@ -45,14 +45,26 @@
 📊 Experiência com **análise documental**, lidando diariamente com dados, sistemas e processos.
 
 ---
+## Tecnologias
 
-##  Tecnologias
+<div align="center">
 
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-  <img src="https://skillicons.dev/icons?i=mysql,c,bootstrap,github" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" /></td>
+  </tr>
+</table>
 
+</div>
 ---
 
 ## linguagens Principais 
