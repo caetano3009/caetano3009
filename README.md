@@ -47,8 +47,6 @@
 ---
 ## Tecnologias
 
-## Tecnologias
-
 <div align="center">
 
 <table>
@@ -57,23 +55,21 @@
       <img src="https://skillicons.dev/icons?i=html" /><br>
       <img src="https://skillicons.dev/icons?i=mysql" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" /><br>
       <img src="https://skillicons.dev/icons?i=c" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" /><br>
       <img src="https://skillicons.dev/icons?i=bootstrap" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=php" /><br>
       <img src="https://skillicons.dev/icons?i=github" />
     </td>
   </tr>
 </table>
+
 </div>
 ---
 
