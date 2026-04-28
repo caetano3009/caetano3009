@@ -47,9 +47,12 @@
 ---
 ## Tecnologias
 
+## Tecnologias
+
 <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
     <!-- Avatar -->
-  <img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
+    <img src="<img src="./né/jiver922.gif" width="120px" />
     <!-- Tecnologias -->
     <table>
       <tr>
