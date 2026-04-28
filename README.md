@@ -46,14 +46,9 @@
 
 ---
 ## Tecnologias
-
-## Tecnologias
-
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-    <!-- Sua imagem -->
-    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/jiver922.gif" width="120px" />
-    <!-- Tecnologias -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
+    <!-- Texto -->
     <table>
       <tr>
         <td align="center">
@@ -74,10 +69,11 @@
         </td>
       </tr>
     </table>
+    <!-- gif  -->
+    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/jiver922.gif" width="180px" />
 
   </div>
 </div>
-
 ## linguagens Principais 
 
 
