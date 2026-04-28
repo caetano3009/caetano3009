@@ -47,6 +47,8 @@
 ---
 ## Tecnologias
 
+<img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
+
 <div align="right">
 
 <table>
@@ -69,8 +71,6 @@
     </td>
   </tr>
 </table>
-
-<img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
 
 </div>
 ---
