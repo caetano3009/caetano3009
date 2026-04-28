@@ -47,7 +47,7 @@
 ---
 ## Tecnologias
 
-<div align="center">
+<div align="right">
 
 <table>
   <tr>
