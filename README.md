@@ -49,7 +49,7 @@
 
 <div align="center">
     <!-- Avatar -->
-<img src="./né/jiver922.gif"width="120px" />
+  <img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
     <!-- Tecnologias -->
     <table>
       <tr>
