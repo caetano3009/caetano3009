@@ -51,8 +51,8 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-    <!-- Avatar -->
-    <img src="<img src="./né/jiver922.gif" width="120px" />
+    <!-- Sua imagem -->
+    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/jiver922.gif" width="120px" />
     <!-- Tecnologias -->
     <table>
       <tr>
