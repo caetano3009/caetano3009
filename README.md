@@ -51,7 +51,6 @@
     <!-- Avatar -->
 <img src="./né/jiver922.gif"width="120px" />
     <!-- Tecnologias -->
-    <img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
     <table>
       <tr>
         <td align="center">
