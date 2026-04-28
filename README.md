@@ -49,8 +49,9 @@
 
 <div align="center">
     <!-- Avatar -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<img src="./né/jiver922.gif"width="120px" />
     <!-- Tecnologias -->
+    <img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
     <table>
       <tr>
         <td align="center">
