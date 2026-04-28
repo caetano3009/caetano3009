@@ -47,23 +47,33 @@
 ---
 ## Tecnologias
 
-<div align="right">
+## Tecnologias
+
+<div align="center">
 
 <table>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" /></td>
-    <td><img src="https://skillicons.dev/icons?i=php" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
-    <td><img src="https://skillicons.dev/icons?i=c" /></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
-    <td><img src="https://skillicons.dev/icons?i=github" /></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" /><br>
+      <img src="https://skillicons.dev/icons?i=c" />
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" /><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" /><br>
+      <img src="https://skillicons.dev/icons?i=github" />
+    </td>
   </tr>
 </table>
-
 </div>
 ---
 
