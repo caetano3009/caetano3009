@@ -47,33 +47,34 @@
 ---
 ## Tecnologias
 
-<img src="./né/jiver922.gif" width="260" height="240" align="left" style="margin-left: 20px;" />
-
-<div align="right">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" /><br>
-      <img src="https://skillicons.dev/icons?i=c" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" /><br>
-      <img src="https://skillicons.dev/icons?i=bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" /><br>
-      <img src="https://skillicons.dev/icons?i=github" />
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  <!-- Avatar -->
+     <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+     </div>
+  <div align="right">
+<!-- Tecnologias -->
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=html" /><br>
+          <img src="https://skillicons.dev/icons?i=mysql" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=css" /><br>
+          <img src="https://skillicons.dev/icons?i=c" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=js" /><br>
+          <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=php" /><br>
+          <img src="https://skillicons.dev/icons?i=github" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
----
 
 ## linguagens Principais 
 
