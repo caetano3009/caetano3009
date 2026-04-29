@@ -85,10 +85,9 @@
 </div>
 ## Linguagens Principais
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr style="border: none;">
-    <td align="left" valign="top" width="400" style="border: none;">
-      <br>
+    <td align="left" valign="middle" style="border: none; width: 450px;">
       <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/><br>
       HTML ████████████████░░░░ 80%<br><br>
       <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/><br>
@@ -100,11 +99,15 @@
       <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/><br>
       UI/UX ████████████████░░░░ 80%
     </td>
-    <td align="center" valign="middle" style="border: none;">
-      <img src="./né/bepop.gif" width="350" style="display: block; margin: auto;">
+    <td align="right" valign="middle" style="border: none;">
+      <img src="/.né/bepop.gif" width="380" style="border-radius: 10px; display: block; margin-left: auto;">
     </td>
   </tr>
 </table>
+
+<br>
+
+## Portfólio Pessoal
 
 <br>
 
