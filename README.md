@@ -86,27 +86,32 @@
 
 </div>
 
-## linguagens Principais 
+
+## Linguagens Principais
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/><br>
+      HTML ████████████████░░░░ 80%<br><br>
+      <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/><br>
+      CSS ████████████████░░ 70%<br><br>
+      <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/><br>
+      JavaScript ██████████░░░░░░░░░░ 50%<br><br>
+      <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/><br>
+      React ███████████████░░░░░ 75%<br><br>
+      <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/><br>
+      UI/UX ████████████████░░░░ 80%
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src=".né/bepop.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+## Portfólio Pessoal
 
 
-
-<center>
-  <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
-  HTML ████████████████░░░░ 80%  
-
-  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
-  CSS ████████████████░░ 70%  
-
-  <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
-  JavaScript ██████████      ░░░ 50%  
-
-  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/>
-  React ███████████████░░░░░ 75%  
-
-  <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
-  UI/UX ████████████████░░░░ 80%  
-
-</center>
 
 
 ##  Portfólio Pessoal
