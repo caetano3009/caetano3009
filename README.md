@@ -109,6 +109,8 @@
 </table>
 
 ---
+<div align="left">
+  
 ##  Portfólio Pessoal
 Site moderno e responsivo para apresentação profissional.
 
@@ -181,6 +183,7 @@ Repositório focado em lógica e algoritmos.
 ✔ Vetores e matrizes  
 ✔ Funções  
 
+</div>
 ---
 
 ##  Áreas de conhecimento
