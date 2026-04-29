@@ -83,7 +83,6 @@
 </table>
 <div align="left">
 
-##  Linguagen
 <div>
 
 ##  Linguagens
