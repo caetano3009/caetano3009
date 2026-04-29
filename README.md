@@ -99,7 +99,7 @@ JavaScript █████████████████░░░ 85%
 React ███████████████░░░░░ 75%  
 <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/>
 
-UI/UX ████████████████░░░░ 80%  
+<img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
 
 
