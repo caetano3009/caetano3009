@@ -48,32 +48,40 @@
 ## Tecnologias
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <!-- Tecnologias (ESQUERDA) -->
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=html" /><br>
-          <img src="https://skillicons.dev/icons?i=mysql" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=css" /><br>
-          <img src="https://skillicons.dev/icons?i=c" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=js" /><br>
-          <img src="https://skillicons.dev/icons?i=bootstrap" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=php" /><br>
-          <img src="https://skillicons.dev/icons?i=github" />
-        </td>
-      </tr>
-    </table>
-    <!-- Imagem (DIREITA) -->
-    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="150px" />
 
-  </div>
+<table>
+  <tr>
+    <!-- Tecnologias (ESQUERDA) -->
+    <td>
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=html" /><br>
+            <img src="https://skillicons.dev/icons?i=mysql" />
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=css" /><br>
+            <img src="https://skillicons.dev/icons?i=c" />
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=js" /><br>
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=php" /><br>
+            <img src="https://skillicons.dev/icons?i=github" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Imagem (DIREITA) -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="180px" />
+    </td>
+
+  </tr>
+</table>
+
 </div>
 ## linguagens Principais 
 
