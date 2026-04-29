@@ -47,6 +47,8 @@
 ---
 ## Tecnologias
 
+## Tecnologias
+
 <div align="center">
 
 <table>
@@ -56,33 +58,34 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://skillicons.dev/icons?i=html" /><br>
-            <img src="https://skillicons.dev/icons?i=mysql" />
+            <img src="https://skillicons.dev/icons?i=html&size=70" /><br>
+            <img src="https://skillicons.dev/icons?i=mysql&size=70" />
           </td>
           <td align="center">
-            <img src="https://skillicons.dev/icons?i=css" /><br>
-            <img src="https://skillicons.dev/icons?i=c" />
+            <img src="https://skillicons.dev/icons?i=css&size=70" /><br>
+            <img src="https://skillicons.dev/icons?i=c&size=70" />
           </td>
           <td align="center">
-            <img src="https://skillicons.dev/icons?i=js" /><br>
-            <img src="https://skillicons.dev/icons?i=bootstrap" />
+            <img src="https://skillicons.dev/icons?i=js&size=70" /><br>
+            <img src="https://skillicons.dev/icons?i=bootstrap&size=70" />
           </td>
           <td align="center">
-            <img src="https://skillicons.dev/icons?i=php" /><br>
-            <img src="https://skillicons.dev/icons?i=github" />
+            <img src="https://skillicons.dev/icons?i=php&size=70" /><br>
+            <img src="https://skillicons.dev/icons?i=github&size=70" />
           </td>
         </tr>
       </table>
     </td>
     <!-- Imagem (DIREITA) -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="180px" />
+      <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="250px" />
     </td>
 
   </tr>
 </table>
 
 </div>
+
 ## linguagens Principais 
 
 
