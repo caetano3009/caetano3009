@@ -184,7 +184,6 @@ Repositório focado em lógica e algoritmos.
 ✔ Funções  
 
 </div>
----
 
 ##  Áreas de conhecimento
 
