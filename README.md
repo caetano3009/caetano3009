@@ -83,28 +83,35 @@
 </table>
 
 ---
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 40px;">
 
   <!-- IMAGEM (ESQUERDA) -->
-  <img src="./né/pinguim.gif" width="260" height="240" />
+  <img src="./né/pinguim.gif" width="260" />
 
   <!-- TEXTO (DIREITA) -->
-  <div>
-
-  ## Linguagens
-
-  <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/> ████████████████████ 95%  
-
-  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/> ██████████████████░░ 90%  
-
-  <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/> █████████████████░░░ 85%  
-
-  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/> ███████████████░░░░░ 75%  
-
-  <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
-
+  <div style="text-align: left;">
+    <h2>Linguagens</h2>
+    <p>
+      <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88"/> 
+      ████████████████████ 95%
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88"/> 
+      ██████████████████░░ 90%
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88"/> 
+      █████████████████░░░ 85%
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88"/> 
+      ███████████████░░░░░ 75%
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88"/> 
+      ████████████████░░░░ 80%
+    </p>
   </div>
-
 </div>
 
 ---
