@@ -82,7 +82,8 @@
   </tr>
 </table>
 
-</d## linguagens Principais 
+</d
+## linguagens Principais 
 <center>
   <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
   HTML ████████████████░░░░ 80%  
