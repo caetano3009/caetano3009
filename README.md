@@ -81,7 +81,7 @@
 
   </tr>
 </table>
-<div align="center">
+<div align="left">
 
 ###  Tecnologias
 HTML ████████████████████ 95%  
