@@ -87,21 +87,15 @@
 
 ##  Linguagens
 
-HTML ████████████████████ 95%  
-<img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
+<img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/> ████████████████████ 95%  
 
-CSS ██████████████████░░ 90%  
-<img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
+<img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/> ██████████████████░░ 90%  
 
-JavaScript █████████████████░░░ 85%  
-<img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
+<img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/> █████████████████░░░ 85%  
 
-React ███████████████░░░░░ 75%  
-<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/>
+<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/> ███████████████░░░░░ 75%  
 
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
-<img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
-
 
 </div>
 
