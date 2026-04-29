@@ -101,7 +101,7 @@
       UI/UX ████████████████░░░░ 80%
     </td>
     <td align="center" valign="middle" style="border: none;">
-      <img src=".né/bepop.gif" width="350" style="display: block; margin: auto;">
+      <img src="./né/bepop.gif" width="350" style="display: block; margin: auto;">
     </td>
   </tr>
 </table>
