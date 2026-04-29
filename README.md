@@ -81,9 +81,13 @@
 
   </tr>
 </table>
-<div align="right">
 
-<div>
+---
+<div aligb="left">
+
+  <img src="./né/bepop.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+
+<div align="right">
 
 ##  Linguagens
 
@@ -97,6 +101,7 @@
 
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
 
+</div>
 </div>
 
 ---
