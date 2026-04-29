@@ -83,36 +83,30 @@
 </table>
 
 ---
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 40px;">
+<table>
+<tr>
+<td width="300">
 
-  <!-- IMAGEM (ESQUERDA) -->
-  <img src="./né/pinguim.gif" width="260" />
+<img src="./né/pinguim.gif" width="260"/>
 
-  <!-- TEXTO (DIREITA) -->
-  <div style="text-align: left;">
-    <h2>Linguagens</h2>
-    <p>
-      <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88"/> 
-      ████████████████████ 95%
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88"/> 
-      ██████████████████░░ 90%
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88"/> 
-      █████████████████░░░ 85%
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88"/> 
-      ███████████████░░░░░ 75%
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88"/> 
-      ████████████████░░░░ 80%
-    </p>
-  </div>
-</div>
+</td>
+<td>
+
+<h2>Linguagens</h2>
+
+<img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88"/> ████████████████████ 95%  
+
+<img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88"/> ██████████████████░░ 90%  
+
+<img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88"/> █████████████████░░░ 85%  
+
+<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88"/> ███████████████░░░░░ 75%  
+
+<img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88"/> ████████████████░░░░ 80%  
+
+</td>
+</tr>
+</table>
 
 ---
 ##  Portfólio Pessoal
