@@ -83,7 +83,7 @@
 </table>
 <div align="left">
 
-###  Tecnologias
+###  TLinguagens
 HTML ████████████████████ 95%  
 <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
 CSS ██████████████████░░ 90%  
