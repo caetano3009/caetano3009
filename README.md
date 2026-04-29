@@ -83,25 +83,28 @@
 </table>
 
 ---
-<div aligb="left">
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
 
-  <img src="./né/bepop.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+  <!-- IMAGEM (ESQUERDA) -->
+  <img src="./né/pinguim.gif" width="260" height="240" />
 
-<div align="right">
+  <!-- TEXTO (DIREITA) -->
+  <div>
 
-##  Linguagens
+  ## Linguagens
 
-<img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/> ████████████████████ 95%  
+  <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/> ████████████████████ 95%  
 
-<img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/> ██████████████████░░ 90%  
+  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/> ██████████████████░░ 90%  
 
-<img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/> █████████████████░░░ 85%  
+  <img src="https://img.shields.io/badge/-JS-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/> █████████████████░░░ 85%  
 
-<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/> ███████████████░░░░░ 75%  
+  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88&color=0d1117"/> ███████████████░░░░░ 75%  
 
-<img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
+  <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/> ████████████████░░░░ 80%  
 
-</div>
+  </div>
+
 </div>
 
 ---
