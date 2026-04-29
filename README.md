@@ -98,15 +98,6 @@
 </center>
 <br>
 
-## Portfólio Pessoal
-
-<br>
-
-## Portfólio Pessoal
-
-
-
-
 ##  Portfólio Pessoal
 Site moderno e responsivo para apresentação profissional.
 
