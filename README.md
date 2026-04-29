@@ -83,8 +83,9 @@
 </table>
 <div align="left">
 
+##  Linguagen
 <div>
-
+<tr>
 ##  Linguagens
 HTML ████████████████████ 95%  
 <img src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
@@ -97,6 +98,7 @@ React ███████████████░░░░░ 75%
 UI/UX ████████████████░░░░ 80%  
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88&color=0d1117"/>
 
+</tr>
 </div>
 
 ##  Portfólio Pessoal
