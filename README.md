@@ -48,7 +48,7 @@
 ## Tecnologias
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <!-- Tecnologias (ESQUERDA) -->
     <table>
       <tr>
@@ -71,7 +71,7 @@
       </tr>
     </table>
     <!-- Imagem (DIREITA) -->
-    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="180px" />
+    <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="150px" />
 
   </div>
 </div>
