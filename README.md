@@ -1,5 +1,5 @@
 <center>
-  <img src="./né/japao.gif" width="100%" height="370" style="object-fit: cover;"/>
+  <img src="./né/japoa.gif" width="100%" height="370" style="object-fit: cover;"/>
 </center>
 
 
