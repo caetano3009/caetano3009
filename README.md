@@ -118,13 +118,13 @@ Site moderno e responsivo para apresentação profissional.
 
 ---
 
-## 🏆 SisGESC - Sistema de Gestão de Clínica
+## 🏆 SisGESC - Sistema de Gestão de Escolar
 Sistema completo para gestão clínica.
 
-✔ Cadastro de pacientes  
-✔ Cadastro de profissionais  
-✔ Agendamento de consultas  
-✔ Gerenciamento de dados  
+✔ Cadastro de Aluno 
+✔ Organização de Diciplinas/Matriculas 
+✔ Gerenciamento Pagamentos
+
 
  Tecnologias:
 
