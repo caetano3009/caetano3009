@@ -219,5 +219,5 @@ Repositório focado em lógica e algoritmos.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0028,50:beef00,100:1400c6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:2b2b2b,100:d9d9d9&height=120&section=footer" />
 </p>
