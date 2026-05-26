@@ -49,37 +49,43 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=html&size=70" /><br>
-            <img src="https://skillicons.dev/icons?i=mysql&size=70" />
-          </td>
+<tr>
 
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=css&size=70" /><br>
-            <img src="https://skillicons.dev/icons?i=c&size=70" />
-          </td>
+<td>
 
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=js&size=70" /><br>
-            <img src="https://skillicons.dev/icons?i=bootstrap&size=70" />
-          </td>
+<table>
+<tr>
 
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=php&size=70" /><br>
-            <img src="https://skillicons.dev/icons?i=github&size=70" />
-          </td>
-        </tr>
-      </table>
-    </td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=html&size=70" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql&size=70" />
+</td>
 
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="250px" />
-    </td>
-  </tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=css&size=70" /><br>
+  <img src="https://skillicons.dev/icons?i=c&size=70" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js&size=70" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap&size=70" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=php&size=70" /><br>
+  <img src="https://skillicons.dev/icons?i=github&size=70" />
+</td>
+
+</tr>
+</table>
+
+</td>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/caetano3009/caetano3009/main/né/genrar.gif" width="250px" />
+</td>
+
+</tr>
 </table>
 
 </div>
@@ -110,6 +116,7 @@
 <img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=00ff88"/> ████████████████░░░░ 80%  
 
 </td>
+
 </tr>
 </table>
 
@@ -205,7 +212,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 em desenvolvimento
+🔗 coloque o link do projeto aqui
 
 ---
 
