@@ -92,7 +92,7 @@
 
 ---
 
-<table>
+<center><table>
 <tr>
 
 <td width="300" align="center">
@@ -116,7 +116,7 @@
 </td>
 
 </tr>
-</table>
+</center></table>
 
 ---
 
