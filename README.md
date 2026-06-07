@@ -92,14 +92,15 @@
 
 ---
 
-<center><table>
+<div align="center">
+<table>
 <tr>
 
 <td width="300" align="center">
   <img src="./né/pinguim.gif" width="260"/>
 </td>
 
-<td>
+<td align="left">
 
 <h2>Linguagens</h2>
 
@@ -116,7 +117,8 @@
 </td>
 
 </tr>
-</center></table>
+</table>
+</div>
 
 ---
 
