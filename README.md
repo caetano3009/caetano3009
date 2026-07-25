@@ -226,6 +226,26 @@ Repositório focado em lógica e algoritmos.
 ✔ Vetores e matrizes  
 ✔ Funções  
 
+---
+
+## 📖 Memórias
+Caderno de recortes digital: álbum de fotos com legenda, textos e mural de recados compartilhado, com login para dois perfis e animação de origamis caindo.
+
+<p>✔ Login com perfis separados</p>
+<p>✔ Fotos, textos e recados compartilhados</p>
+<p>✔ Backend opcional em C puro (sockets, sem frameworks)</p>
+
+Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff88&color=0d1117"/>
+</p>
+
+🔗 https://memorias-xi.vercel.app/
+
 </div>
 
 ---
