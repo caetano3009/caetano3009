@@ -199,25 +199,6 @@ Tecnologias:
 
 ---
 
-## 🎬 MediaLog
-Sistema moderno para gerenciamento e organização de mídias.
-
-<p>✔ Cadastro de mídias</p>
-<p>✔ Interface moderna e responsiva</p>
-<p>✔ Organização de conteúdos</p>
-
-Tecnologias:
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88&color=0d1117"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&color=0d1117"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88&color=0d1117"/>
-</p>
-
-🔗 https://caetano3009.github.io/Catalogo/
-
----
-
 ## 💻 Fundamentos em C
 Repositório focado em lógica e algoritmos.
 
