@@ -225,7 +225,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 https://memorias-xi.vercel.app/
+🔗 https://caetano3009.github.io/memorias/
 
 </div>
 
