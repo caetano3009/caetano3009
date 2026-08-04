@@ -149,7 +149,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 https://caetano3009.github.io/Projeto-de-Banco-de-Dados---SisGESC/
+🔗 sis-gesc-erp-educacional.vercel.app
 
 ---
 
