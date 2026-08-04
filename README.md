@@ -149,7 +149,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 sis-gesc-erp-educacional.vercel.app
+🔗 https://sis-gesc-erp-educacional-94ca9wgsg-caetano3009s-projects.vercel.app/
 
 ---
 
