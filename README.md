@@ -165,7 +165,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 Em desenvolvimento
+🔗 https://site-estagio-five.vercel.app/
 
 ---
 
@@ -180,7 +180,7 @@ Tecnologias:
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
 </p>
 
-🔗 Em desenvolvimento
+🔗 https://smile-system-delta.vercel.app/
 
 ---
 
