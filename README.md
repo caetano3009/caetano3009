@@ -258,9 +258,6 @@ Tecnologias:
 
 ---
 
-<p align="center">
-  💬 "Transformando ideias em sistemas reais"
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:2b2b2b,100:d9d9d9&height=120&section=footer" />
