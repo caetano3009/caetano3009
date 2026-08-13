@@ -3,10 +3,6 @@
 </center>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=beef00&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Transformando+ideias+em+projetos+reais;" />
-</p>
-
-<p align="center">
   <a href="https://caetano3009.github.io/portifolio">
     <img src="https://img.shields.io/badge/PORTFÓLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=0d1117&color=0d1117"/>
   </a>
