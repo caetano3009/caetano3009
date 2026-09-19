@@ -131,6 +131,23 @@ Site moderno e responsivo para apresentação profissional.
 
 ---
 
+##Flowtraker - Sistema de Gestão De Produção
+Sistema inicial para controle de atendimentos.
+
+Tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&color=0d1117"/>
+  
+</p>
+
+🔗 
+---
+
 ## 🏆 SisGESC - Sistema de Gestão Escolar
 Sistema completo para gestão escolar.
 
@@ -149,7 +166,7 @@ Tecnologias:
 
 ---
 
-## 💼 Sistema de Vagas de Estágio
+## Sistema de Vagas de Estágio
 Plataforma para divulgação de oportunidades.
 
 Tecnologias:
@@ -165,7 +182,7 @@ Tecnologias:
 
 ---
 
-## 🦷 Sistema de Clínica Odontológica
+##Sistema de Clínica Odontológica
 Sistema inicial para controle de atendimentos.
 
 Tecnologias:
@@ -180,7 +197,7 @@ Tecnologias:
 
 ---
 
-## 🎯 RolêFinder
+##RolêFinder
 Plataforma para encontrar lugares e experiências.
 
 Tecnologias:
@@ -195,7 +212,7 @@ Tecnologias:
 
 ---
 
-## 💻 Fundamentos em C
+##Fundamentos em C
 Repositório focado em lógica e algoritmos.
 
 ✔ Estruturas condicionais  
@@ -205,7 +222,7 @@ Repositório focado em lógica e algoritmos.
 
 ---
 
-## 📖 Memórias
+##Memórias
 Caderno de recortes digital: álbum de fotos com legenda, textos e mural de recados compartilhado, com login para dois perfis e animação de origamis caindo.
 
 <p>✔ Login com perfis separados</p>
@@ -227,7 +244,7 @@ Tecnologias:
 
 ---
 
-# 🧠 Áreas de conhecimento
+##Áreas de conhecimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/WEB-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88&color=0d1117"/>
@@ -239,7 +256,7 @@ Tecnologias:
 
 ---
 
-# 📈 Contribuições
+# Contribuições
 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph-dark.svg"> 
