@@ -131,7 +131,7 @@ Site moderno e responsivo para apresentação profissional.
 
 ---
 
-##Flowtraker - Sistema de Gestão De Produção
+## Flowtraker - Sistema de Gestão De Produção
 Sistema inicial para controle de atendimentos.
 
 Tecnologias:
@@ -182,7 +182,7 @@ Tecnologias:
 
 ---
 
-##Sistema de Clínica Odontológica
+## Sistema de Clínica Odontológica
 Sistema inicial para controle de atendimentos.
 
 Tecnologias:
@@ -197,7 +197,7 @@ Tecnologias:
 
 ---
 
-##RolêFinder
+## RolêFinder
 Plataforma para encontrar lugares e experiências.
 
 Tecnologias:
@@ -212,7 +212,7 @@ Tecnologias:
 
 ---
 
-##Fundamentos em C
+## Fundamentos em C
 Repositório focado em lógica e algoritmos.
 
 ✔ Estruturas condicionais  
@@ -222,7 +222,7 @@ Repositório focado em lógica e algoritmos.
 
 ---
 
-##Memórias
+## Memórias
 Caderno de recortes digital: álbum de fotos com legenda, textos e mural de recados compartilhado, com login para dois perfis e animação de origamis caindo.
 
 <p>✔ Login com perfis separados</p>
@@ -244,7 +244,7 @@ Tecnologias:
 
 ---
 
-##Áreas de conhecimento
+## Áreas de conhecimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/WEB-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88&color=0d1117"/>
